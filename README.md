@@ -8,6 +8,6 @@ ETL and data cleaning operations to make it ready so that we can build our dashb
 build a powerful dashboard that can help us generate sales insights on Atliq hardware business. .
 </P>
 <h4>TOTAL SALES</h4>
-<img src="Key Insights.PNG" alt="Key Insights">
+<img src="Key_Insights.PNG" alt="Key Insights">
 
 
